@@ -1,0 +1,30 @@
+
+ 
+body {
+	background-color: #f4C10b;
+}
+
+h1{
+	text-align: center;
+	font-size: 100px;
+	font-family: "Playwrite ID", "Times New Roman";
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
+
+ul{
+	padding-left: 300px;
+	list-style-type: none;
+	font-family: "Yuyu Short" sans-serif;
+}
+
+li{
+	font-family: "Yuyu Short" sans-serif;
+}
