@@ -8,6 +8,8 @@ h1{
 	text-align: center;
 	font-size: 100px;
 	font-family: "Playwrite ID", "Times New Roman";
+	overflow: hidden;
+	margin-bottom: 0px;
 }
 
 .material-symbols-outlined {
@@ -22,9 +24,18 @@ h1{
 ul{
 	padding-left: 300px;
 	list-style-type: none;
-	font-family: "Yuyu Short" sans-serif;
+	font-family: "Yuyu Short",sans-serif;
+	font-size: 40px;
+	margin-top: 0px;
 }
 
-li{
-	font-family: "Yuyu Short" sans-serif;
+
+a:link {
+	color: #2754F5;
 }
+
+a:hover , a:visited {
+	color: #6127F5;
+}
+
+
